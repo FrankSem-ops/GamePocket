@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GamePocket"
 include(":app")
- 
+include(":build-logic")
